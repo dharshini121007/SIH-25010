@@ -41,12 +41,39 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+Detailed Explanation of the Proposed Solution
 
+The proposed Smart Crop Advisory System (SCAS) is a low-cost, AI-powered platform designed specifically for small and marginal farmers who often lack access to real-time agricultural advice. It provides personalized, localized, and actionable crop-related guidance by integrating multiple technologies such as Artificial Intelligence (AI), Internet of Things (IoT), mobile communication, and satellite data.
+
+How It Addresses the Problem
+
+Lack of scientific crop selection
+Poor access to timely pest control
+Low digital literacy and language barriers
+Disconnected from market pricing and buyers
+Limited resources for experimentation
+Low smartphone penetration and poor internet
+
+Innovation and Uniqueness of the Solution
+
+Multimodal Access
+AI + Traditional Knowledge
+Hyper-local Customization
+End-to-End Farmer Support
+Low-Infrastructure Deployment
+Community Feedback Loop
+Policy and Planning Integration
 ## Technical Approach
+
+Software Technologies
+
+1. Frontend : HTML/CSS/JS
+2. Backend : Node.js
+3. Database : PostgreSQL, MongoDB
+4. APIs & Integration : OpenWeatherMap API, Google Maps API
+5. Voice Assistant & IVR : Google Dialogflow / Rasa for NLP, Twilio or Exotel for IVR
+6. 
+   
 <h3>Remove These Lines</h3>
 <ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
 </li>
