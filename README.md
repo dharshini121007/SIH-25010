@@ -41,28 +41,24 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-Detailed Explanation of the Proposed Solution
 
-The proposed Smart Crop Advisory System (SCAS) is a low-cost, AI-powered platform designed specifically for small and marginal farmers who often lack access to real-time agricultural advice. It provides personalized, localized, and actionable crop-related guidance by integrating multiple technologies such as Artificial Intelligence (AI), Internet of Things (IoT), mobile communication, and satellite data.
+The proposed Smart Crop Advisory System (SCAS) is a low-cost, AI-powered platform designed specifically for small and marginal farmers who often lack access to real-time agricultural advice.proposed solution for this problem
 
-How It Addresses the Problem
+1)A MULTILINGUAL
+      => Intial rollout to support atleast 5 major regional languages like hindi,tamil,telugu,kannada,marathi
 
-Lack of scientific crop selection
-Poor access to timely pest control
-Low digital literacy and language barriers
-Disconnected from market pricing and buyers
-Limited resources for experimentation
-Low smartphone penetration and poor internet
+2)SOIL HEALTH ANALYSIS
+      =>Develop smart advisory system that testing the soil and nutrient analysis to guide fertilizer application  
 
-Innovation and Uniqueness of the Solution
+3)WEATHER ALERTS 
+      =>Send weather based alerts and predictive insights to help farmers plan
 
-Multimodal Access
-AI + Traditional Knowledge
-Hyper-local Customization
-End-to-End Farmer Support
-Low-Infrastructure Deployment
-Community Feedback Loop
-Policy and Planning Integration
+4)PEST AND DISEASE DETECTION
+      =>Develop an AI-powered feature that allows farmers to d plant images for instant pest and disease detection,this helps for early intervention and reduces crop loss
+
+5)VOICE SUPPORT FOR LOW LITERATE USERS
+       =>Intergate voice based navigation and response in local languages to help low iterate farmers easily access information.it ensures they can understand and folloe farming advice without reading or typing
+
 ## Technical Approach
 
 Software Technologies
