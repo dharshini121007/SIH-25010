@@ -62,7 +62,7 @@ The proposed Smart Crop Advisory System (SCAS) is a low-cost, AI-powered platfor
        =>Intergate voice based navigation and response in local languages to help low iterate farmers easily access information.it ensures they can understand and folloe farming advice without reading or typing
 
 ## Technical Approach
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5a7e770c-89cb-4914-b1e8-5c8c27f245da" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bcf10e24-d13c-42e8-9797-6e8cc83c0135"/>
 
 ## Feasibility and Viability
 =>The Smart Crop Advisory System is a highly feasible solution, especially given the increasing accessibility of smartphones, mobile networks, and digital platforms in rural India.
